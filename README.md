@@ -3,7 +3,7 @@ Olá! Eu sou a Laura Dantas.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lauredantas/)
 
  ![Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=figueiredlaura&show_icons=true&theme=dracula&count_private=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=figueiredlaura0&show_icons=true&theme=radical" alt="Laura GitHub stats" width="480" />
 ##Tecnologias trabalhadas
 
 <div style="display: inline_block">
